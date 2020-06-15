@@ -1,0 +1,38 @@
+.frame{
+    width: 320px;
+    border: 2px solid grey;
+    padding: 5px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: cursive;
+  }
+  
+  .description{
+    width: 300px;
+    border: 1px solid grey;
+    margin: 10px;
+    padding: 10px;
+  }
+  
+  span {
+    font-weight: bold;
+}
+  .fact {
+    font-style: italic;
+}
+ 
+img {
+    border: 1px solid grey;
+    margin: 10px;
+    width: 300px;
+}    
+
+ul {
+    list-style-type: none;
+    padding-left: 0pt;    
+  }
+h3 {
+    margin: auto;   
+    font-variant: small-caps;
+  }
